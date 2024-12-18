@@ -1,0 +1,7 @@
+pytest
+langchain
+langchain-google-genai
+pymongo>=4.7
+python-dotenv
+streamlit
+numpy
